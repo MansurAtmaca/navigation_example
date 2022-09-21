@@ -1,16 +1,5 @@
-# navigation_example
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Navigation example with named route.
+![Screenshot_1663781939](https://user-images.githubusercontent.com/52621536/191573724-defd679e-3728-4bc1-9466-c54975b3f2f3.png)
+![Screenshot_1663782045](https://user-images.githubusercontent.com/52621536/191573776-e612bda3-9804-4581-a3f6-c06776371ff5.png)
+![Screenshot_1663782040](https://user-images.githubusercontent.com/52621536/191573780-7dfda91a-f529-420c-98cf-05715326226f.png)
+![Screenshot_1663782043](https://user-images.githubusercontent.com/52621536/191573781-e01856af-8607-45f5-aba7-87b607ee39aa.png)
